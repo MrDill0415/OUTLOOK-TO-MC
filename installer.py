@@ -13,7 +13,7 @@ import shutil
 # 3. Use the URL for the "Raw" content of your main branch.
 # Example: https://raw.githubusercontent.com/USER/REPO/main/
 # =============================================================================
-BASE_URL = "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/"
+BASE_URL = "https://raw.githubusercontent.com/MrDill0415/OUTLOOK-TO-MC/main/"
 # =============================================================================
 
 RUN_TOOL_BAT = r"""@echo off
